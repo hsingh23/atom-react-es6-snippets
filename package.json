@@ -1,5 +1,5 @@
 {
-  "name": "react-es6-snippets",
+  "name": "react-es6-snippets-nosemicolons",
   "version": "0.3.0",
   "description": "React ES6 snippets for atom",
   "keywords": [
@@ -8,7 +8,7 @@
     "babel",
     "snippets"
   ],
-  "repository": "https://github.com/netguru/atom-react-es6-snippets",
+  "repository": "https://github.com/hsingh23/atom-react-es6-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
